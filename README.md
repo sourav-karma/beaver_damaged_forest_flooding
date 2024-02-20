@@ -1,7 +1,5 @@
 **Monitoring Beaver-induced flooding in Estonia**
 
-Beavers are said to be ecosystem engineers and are essential for sustaining wetland and floodplain habitats in many landscapes. However, Beavers are blames for creating dams that strongly influences the flow of water 
-and causes floods that damage natural vegetation in Forest ecosystem. This project aims to detect Beaver damaged forest areas in Estonian forest by using Sentinel-2 satellite imageries, orthophotos and Beaver sight location data. 
-The satellite imagery was used to detect the location of floods damage and to access the pattern of forest damage around water bodies, the contour of the study area was used to extract the total area of interest and the known beaver points 
-served as a reference in the identification of active beaver locations for the collection of training samples for the Random Forest algorithm. Accuracy was 91%, precision was 66% and Cohen’s kappa was 0.65.
-![image](https://github.com/sourav-karma/beaver_damaged_forest_flooding/assets/145971753/a46a3afc-de08-46eb-887b-512e2bd098d4)
+This study focuses on identifying areas of forest damage caused by beavers within Estonian forests, utilizing a combination of Sentinel-2 satellite imagery, orthophotos, and known beaver sighting data. By analyzing the satellite imagery, the project aimed to pinpoint locations of flood damage and assess the extent of forest disturbance near water bodies. The study area's contour was employed to delineate the total area of interest, while known beaver sighting locations served as reference points for identifying active beaver habitats and collecting training samples for the Random Forest algorithm. The analysis achieved an accuracy of 91%, with a precision of 66% and Cohen’s kappa coefficient of 0.65, indicating substantial agreement between predicted and observed forest damage due to beaver activity. This approach provides a valuable tool for monitoring and managing beaver-related ecological impacts in forest ecosystems, aiding in conservation efforts and mitigating potential flood risks.
+
+
